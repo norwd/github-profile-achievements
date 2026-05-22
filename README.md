@@ -36,9 +36,9 @@ These are internal Achievements awarded for contributions to GitHub's developmen
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
-Proxima Pioneer | ![Proxima Pioneer Badge](/images/proxima-pioneer-default-51cd4e4969d5.png) | ❌ (Internal) | M0 Participant (presumably: participation in the early stage)
-Proxima Staffshipper | ![Proxima Staffshipper Badge](/images/proxima-staffshipper-default-84f658288021.png) | ❌ (Internal) | M8 Participant (presumably: internal system usage / onboarding)
-Proxima Staffuser | ![Proxima Staffuser Badge](/images/proxima-staffuser-default-02bf6163ea31.png) | ❌ (Internal) | When your team is on Proxima (presumably: shipped a solution within the program)
+Proxima Pioneer | ![Proxima Pioneer Badge](/images/proxima-pioneer-default-51cd4e4969d5.png) | ❌ (Internal) | M0 Participant ("contributed to Proxima POC")
+Proxima Staffshipper | ![Proxima Staffshipper Badge](/images/proxima-staffshipper-default-84f658288021.png) | ❌ (Internal) | M8 Participant ("shipped Proxima Staffship instance")
+Proxima Staffuser | ![Proxima Staffuser Badge](/images/proxima-staffuser-default-02bf6163ea31.png) | ❌ (Internal) | When your team is on Proxima ("onboarded to Proxima")
 
 ### Disabled
 
@@ -48,7 +48,6 @@ There are Achievements that were live at least for some but are currently disabl
 | --- | --- | --- | --- |
 Heart On Your Sleeve | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | ❌ (🔜 Being tested) | React to something on GitHub with a ❤️ emoji 
 Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | ❌ (🔜 Being tested) | User had PRs merged in multiple public repositories 
-
 
 ## Tiers
 
