@@ -18,9 +18,6 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
-Heart On Your Sleeve | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | ❌ (🔜 Being tested) | React to something on GitHub with a ❤️ emoji 
-Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | ❌ (🔜 Being tested) | User had PRs merged in multiple public repositories 
-||| <!-- this empty row is intentional to separate -->
 Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
 Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
 Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars
@@ -32,10 +29,26 @@ YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged own pull reques
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
-||| <!-- this empty row is intentional to separate -->
-Proxima Pioneer | ![Proxima Pioneer Badge](/images/proxima/proxima-pioneer.png) | ❌ (Internal) | Participation in the early stage / POC (proof of concept)
-Proxima Staffuser | ![Proxima Staffuser Badge](/images/proxima/proxima-staffuser.png) | ❌ (Internal) | Internal system usage / onboarding
-Proxima Staffshipper | ![Proxima Staffshipper Badge](/images/proxima/proxima-staffshipper.png) | ❌ (Internal) | Shipped a solution within the program
+
+### Internal
+
+These are internal Achievements awarded for contributions to GitHub's development itself by staff members. They cannot be earned through typical activity.
+
+| Title | Badge | Earnable? | Earned by |
+| --- | --- | --- | --- |
+Proxima Pioneer | ![Proxima Pioneer Badge](/images/proxima-pioneer-default-51cd4e4969d5.png) | ❌ (Internal) | M0 Participant (presumably: participation in the early stage)
+Proxima Staffshipper | ![Proxima Staffshipper Badge](/images/proxima-staffshipper-default-84f658288021.png) | ❌ (Internal) | M8 Participant (presumably: internal system usage / onboarding)
+Proxima Staffuser | ![Proxima Staffuser Badge](/images/proxima-staffuser-default-02bf6163ea31.png) | ❌ (Internal) | When your team is on Proxima (presumably: shipped a solution within the program)
+
+### Disabled
+
+There are Achievements that were live at least for some but are currently disabled, so are neither earnable nor show up (anymore) on any profile.
+
+| Title | Badge | Earnable? | Earned by |
+| --- | --- | --- | --- |
+Heart On Your Sleeve | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | ❌ (🔜 Being tested) | React to something on GitHub with a ❤️ emoji 
+Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | ❌ (🔜 Being tested) | User had PRs merged in multiple public repositories 
+
 
 ## Tiers
 
@@ -82,14 +95,6 @@ To the best of our knowledge:
 - [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
 - [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
 
-### Proxima achievements
-
-These are hidden/internal achievements awarded for contributions to GitHub's development itself. They are not part of the official lists and cannot be earned through typical activity.
-
-- **Proxima Pioneer**: Awarded for participation in early stages or Proof of Concept (POC).
-- **Proxima Staffuser**: Awarded for usage or onboarding in internal systems.
-- **Proxima Staffshipper**: Awarded for shipping a solution as part of the program.
-
 ### Tier labels
 
 Each tier has a label associated which includes a color.
@@ -120,8 +125,8 @@ Public Sponsor | [Live 100 % unlocked sample by @ljharb](https://github.com/ljha
 Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
 ||| <!-- this empty row is intentional to separate -->
 Proxima Pioneer | [Live 100 % unlocked sample by @brannon](https://github.com/brannon?achievement=proxima-pioneer&tab=achievements)
-Proxima Staffuser | [Live 100 % unlocked sample by @timrogers](https://github.com/timrogers?achievement=proxima-staffuser&tab=achievements)
 Proxima Staffshipper | [Live 100 % unlocked sample by @brannon](https://github.com/brannon?achievement=proxima-staffshipper&tab=achievements)
+Proxima Staffuser | [Live 100 % unlocked sample by @timrogers](https://github.com/timrogers?achievement=proxima-staffuser&tab=achievements)
 
 Do you know a user with all Achievements with highest tier at the same time? Let me know [here](https://github.com/Schweinepriester/github-profile-achievements/discussions/925)!
 
