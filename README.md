@@ -32,10 +32,10 @@ YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged own pull reques
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
-||                                                                                                       | <!-- this empty row is intentional to separate -->
-Proxima Pioneer | ![Proxima Pioneer Badge](/images/proxima/proxima-pioneer.png)                                         | ❌ (Internal) | Participation in the early stage / POC (proof of concept)
-Proxima Staffuser | ![Proxima Staffuser Badge](/images/proxima/proxima-staffuser.png)                                     | ❌ (Internal) | Internal system usage / onboarding
-Proxima Staffshipper | ![Proxima Staffshipper Badge](/images/proxima/proxima-staffshipper.png)                               | ❌ (Internal) | Shipped a solution within the program
+||| <!-- this empty row is intentional to separate -->
+Proxima Pioneer | ![Proxima Pioneer Badge](/images/proxima/proxima-pioneer.png) | ❌ (Internal) | Participation in the early stage / POC (proof of concept)
+Proxima Staffuser | ![Proxima Staffuser Badge](/images/proxima/proxima-staffuser.png) | ❌ (Internal) | Internal system usage / onboarding
+Proxima Staffshipper | ![Proxima Staffshipper Badge](/images/proxima/proxima-staffshipper.png) | ❌ (Internal) | Shipped a solution within the program
 
 ## Tiers
 
@@ -84,7 +84,7 @@ To the best of our knowledge:
 
 ### Proxima achievements
 
-These are hidden/internal achievements awarded for contributions to GitHub's development itself. They are not part of the official lists and cannot be "farmed" through typical activity.
+These are hidden/internal achievements awarded for contributions to GitHub's development itself. They are not part of the official lists and cannot be earned through typical activity.
 
 - **Proxima Pioneer**: Awarded for participation in early stages or Proof of Concept (POC).
 - **Proxima Staffuser**: Awarded for usage or onboarding in internal systems.
